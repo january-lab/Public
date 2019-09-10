@@ -35,7 +35,7 @@ An album application manages images in Android device ver 5.0 or above. It allow
 ## Install
 
 <ul>
-  <li>Method 1: Clone the project and build it by Android studio.</li>
+  <li>Method 1: Clone the <a href="https://github.com/khanhuynh/MiniAlbum-ver1" >project</a> and build it by Android studio.</li>
   <li>Method 2: Download <a href="https://mega.nz/#F!Vqx1TDaC" >here</a> and install it through "Unknown sources".</li>
 </ul>
 <p><b>Note: </b>Just only support android device version is 5.0.0 or above.</p>
