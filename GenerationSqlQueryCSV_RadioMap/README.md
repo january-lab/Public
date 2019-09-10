@@ -1,5 +1,5 @@
 # Generation Sql Query Insertion From CSV RadioMap
-Pull project or Download one then run this command:
+Pull <a href="https://github.com/khanhuynh/GenerationSqlQueryCSV_RadioMap" >project</a> or Download one then run this command:
 ```
 kotlin GenerationSQLKt data_RadioMap.csv data_RadioMap.sql 1
 ```
