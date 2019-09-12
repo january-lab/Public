@@ -163,7 +163,7 @@ customMarker.setMarkerDrawable(R.drawable.default_avatar);
 customMarker.setMarkerPadding(R.dimen.default_marker_padding_5dp);
 
 final BitmapDescriptor bitmapDescriptor = BitmapDescriptorFactory.fromBitmap(loadBitmapFromView(customMarker));
-finalMarkerOptions markerOptions = new MarkerOptions().position(imHere).icon(bitmapDescriptor);
+final MarkerOptions markerOptions = new MarkerOptions().position(imHere).icon(bitmapDescriptor);
 mMap.addMarker(markerOptions);
 ...
 ```
